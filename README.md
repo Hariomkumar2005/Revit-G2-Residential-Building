@@ -19,8 +19,4 @@ The work includes architectural floor plans, structural elements, and 3D visuali
  
 
 
-## 📂 Project Files
- 
-
-https://drive.google.com/file/d/11KMKST55oJ7L7tE1TSbDGn83StD2DXIn/view?usp=drive_link
 
