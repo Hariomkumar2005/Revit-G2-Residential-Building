@@ -13,14 +13,14 @@ The work includes architectural floor plans, structural elements, and 3D visuali
 - Generated **3D perspective views and walkthrough images** to visualize design and space utilization.  
 
 ## 📸 Screenshots
-(Add your images inside an `images` folder in this repo, then link them here)
 
-![3D View](images/revit-3d.png)  
-![Floor Plan](images/floor-plan.png)  
+
+![image3d view](https://github.com/user-attachments/assets/1cec261a-aa03-4299-9316-b832a9f106ce)
+ 
+
 
 ## 📂 Project Files
-- `/files/Residential_Building.rvt` → Revit model  
-- `/files/Drawings.pdf` → Exported floor plans & elevations  
+ 
 
----
+https://drive.google.com/file/d/11KMKST55oJ7L7tE1TSbDGn83StD2DXIn/view?usp=drive_link
 
